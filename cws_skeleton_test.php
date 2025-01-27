@@ -5,7 +5,7 @@
  * GitHub Plugin URI: NoomCrazyWeb/cws-skeleton-test
  * GitHub Branch: main
  * Description: A lightweight and flexible WordPress plugin skeleton for testing and development purposes.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Crazy Web Studio
  * Author URI: https://www.crazywebstudio.co.th
  * Text Domain: cws-skeleton-test
