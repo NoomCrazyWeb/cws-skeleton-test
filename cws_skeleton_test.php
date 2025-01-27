@@ -11,7 +11,6 @@
  * Text Domain: cws-skeleton-test
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- *
  * Copyright 2024 Crazy Web Studio
  */
 
