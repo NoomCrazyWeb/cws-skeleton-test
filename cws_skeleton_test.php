@@ -14,6 +14,7 @@
  * Copyright 2024 Crazy Web Studio
  */
 
+
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
